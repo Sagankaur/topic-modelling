@@ -8,6 +8,10 @@ Original Google Drive folder:
 
 https://drive.google.com/drive/folders/1XfbC_M6OK70448Hpm130Vstqm69WH3HG
 
+Additional internship work folder:
+
+https://drive.google.com/drive/folders/1AFg-GrGi47McAk9mDwD9dM-tb6S8hMvN
+
 ## Layout
 
 - `src/` - Python scripts for cleaning, EDA, classification, topic modelling, reporting, and dashboards.
@@ -30,4 +34,10 @@ The original environment used CUDA-enabled PyTorch packages (`torch`, `torchaudi
 
 ## Import Status
 
-The Drive connector can see the folder, but direct local download via `gdown` returned HTTP 401. To complete a full local import, temporarily set the Drive folder to **Anyone with the link: Viewer** or provide a ZIP export, then download into this repo and place files according to `docs/drive_manifest.csv`.
+Source scripts, the EDA report, the classifier workbook, and the UMAP figure were imported locally from Google Drive and committed to the repo.
+
+Very large Drive artifacts are intentionally not tracked in normal Git because GitHub rejects files over 100 MB. Keep these in Drive or add Git LFS before importing them:
+
+- `summary doms job review.mp4`
+- `summary of DOMS job review.zip`
+- `updated_glassdoor_data.csv`
