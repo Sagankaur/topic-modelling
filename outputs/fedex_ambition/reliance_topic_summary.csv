@@ -1,0 +1,30 @@
+polarity,cluster,topic_label,cluster_size,avg_confidence
+pros,0,Workplace Culture And Benefits,384,0.862
+pros,1,Job Security,314,0.862
+pros,2,Salary and Benefits,304,0.924
+pros,3,WorkLife Balance,284,0.926
+pros,4,Option to Work from,187,0.994
+pros,5,Workplace Culture and Development,331,0.921
+pros,6,COLLABORATIVE WORK CULTURE,156,1.0
+pros,7,Growth Opportunities,159,1.0
+pros,8,Corporate Social Responsibility,162,0.999
+pros,9,TEAM CULTURE,485,0.927
+pros,10,Note I generated a,176,0.999
+pros,11,Efficient System in Place,349,0.926
+pros,12,Opportunity Based,712,0.879
+pros,13,WORK ENVIRONMENT,853,0.88
+pros,14,Learning and Development Opportunities,245,1.0
+cons,0,UNRELIABLE EMPLOYER,181,0.964
+cons,1,Communication Skills,490,0.785
+cons,2,Teamwork and Collaboration,474,0.916
+cons,3,Location Challenges Workplace,172,0.997
+cons,4,No Job Security,345,0.861
+cons,5,OVERCENTRALIZED DECISION MAKING,194,0.969
+cons,6,Company Culture,165,0.999
+cons,7,Lack of Agility in,317,0.889
+cons,8,Low Productivity,201,0.993
+cons,9,PAYMENT COMPENSATION,658,0.921
+cons,10,STRESSFUL ENVIRONMENT,495,0.904
+cons,11,GROWTH LIMITATIONS,271,0.969
+cons,12,Poor Management Practices,2748,0.796
+cons,13,Workload Is Too High,205,1.0
