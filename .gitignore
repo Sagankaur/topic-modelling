@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Local and generated data
+data/raw/*
+data/processed/*
+outputs/*
+outputs/figures/*
+outputs/spreadsheets/*
+archive/drive-folders/*
+
+# Keep directory placeholders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!outputs/.gitkeep
+!outputs/figures/
+!outputs/figures/.gitkeep
+!outputs/spreadsheets/
+!outputs/spreadsheets/.gitkeep
+!archive/drive-folders/.gitkeep
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
